@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\visual studio 2020\Zmiyka kursuva\Zmiyka kursuva\Source.cpp(50,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio 2020\Zmiyka kursuva\Zmiyka kursuva\Source.cpp(105,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio 2020\Zmiyka kursuva\Zmiyka kursuva\Source.cpp(139,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Zmiyka kursuva.vcxproj -> D:\visual studio 2020\Zmiyka kursuva\Debug\Zmiyka kursuva.exe
